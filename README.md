@@ -1,24 +1,22 @@
-## Data Visualizations
-
-The following visualizations explore Netflix's content distribution and catalog trends.
+ ## Data Visualizations
 
 ### 1. Netflix Content Type
-![Netflix Content Type](netflix_content_type.png)
+![Netflix Content Type](https://raw.githubusercontent.com/anjani9091/Netflix-Data-Analysis/main/netflix_content_type.png)
 
 ### 2. Netflix Ratings
-![Netflix Ratings](netflix_ratings.png)
+![Netflix Ratings](https://raw.githubusercontent.com/anjani9091/Netflix-Data-Analysis/main/netflix_ratings.png)
 
 ### 3. Top Countries
-![Top Countries](netflix_top_countries.png)
+![Top Countries](https://raw.githubusercontent.com/anjani9091/Netflix-Data-Analysis/main/netflix_top_countries.png)
 
 ### 4. Top Genres
-![Top Genres](netflix_genres.png)
+![Top Genres](https://raw.githubusercontent.com/anjani9091/Netflix-Data-Analysis/main/netflix_genres.png)
 
 ### 5. Content Trends
-![Content Trends](netflix_content_trends.png)
+![Content Trends](https://raw.githubusercontent.com/anjani9091/Netflix-Data-Analysis/main/netflix_content_trends.png)
 
 ### 6. Movie Duration
-![Movie Duration](netflix_movie_duration.png)
+![Movie Duration](https://raw.githubusercontent.com/anjani9091/Netflix-Data-Analysis/main/netflix_movie_duration.png)
  # Netflix Data Analysis Using Python
 
 ## Project Overview
