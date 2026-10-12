@@ -1,3 +1,24 @@
+## Data Visualizations
+
+The following visualizations explore Netflix's content distribution and catalog trends.
+
+### 1. Netflix Content Type
+![Netflix Content Type](netflix_content_type.png)
+
+### 2. Netflix Ratings
+![Netflix Ratings](netflix_ratings.png)
+
+### 3. Top Countries
+![Top Countries](netflix_top_countries.png)
+
+### 4. Top Genres
+![Top Genres](netflix_genres.png)
+
+### 5. Content Trends
+![Content Trends](netflix_content_trends.png)
+
+### 6. Movie Duration
+![Movie Duration](netflix_movie_duration.png)
  # Netflix Data Analysis Using Python
 
 ## Project Overview
