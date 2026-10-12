@@ -1,22 +1,22 @@
  ## Data Visualizations
 
 ### 1. Netflix Content Type
-![Netflix Content Type](https://raw.githubusercontent.com/anjani9091/Netflix-Data-Analysis/main/netflix_content_type.png)
+![Netflix Content Type](https://raw.githubusercontent.com/anjani9091/Netflix-Data-Analysis/main/content_by_type.png)
 
 ### 2. Netflix Ratings
 ![Netflix Ratings](https://raw.githubusercontent.com/anjani9091/Netflix-Data-Analysis/main/netflix_ratings.png)
 
 ### 3. Top Countries
-![Top Countries](https://raw.githubusercontent.com/anjani9091/Netflix-Data-Analysis/main/netflix_top_countries.png)
+![Top Countries](https://raw.githubusercontent.com/anjani9091/Netflix-Data-Analysis/main/top_countries.png)
 
 ### 4. Top Genres
-![Top Genres](https://raw.githubusercontent.com/anjani9091/Netflix-Data-Analysis/main/netflix_genres.png)
+![Top Genres](https://raw.githubusercontent.com/anjani9091/Netflix-Data-Analysis/main/top_genres.png)
 
 ### 5. Content Trends
-![Content Trends](https://raw.githubusercontent.com/anjani9091/Netflix-Data-Analysis/main/netflix_content_trends.png)
+![Content Trends](https://raw.githubusercontent.com/anjani9091/Netflix-Data-Analysis/main/titles_added_by_year.png)
 
-### 6. Movie Duration
-![Movie Duration](https://raw.githubusercontent.com/anjani9091/Netflix-Data-Analysis/main/netflix_movie_duration.png)
+### 6. Movie Durations
+![Movie Durations](https://raw.githubusercontent.com/anjani9091/Netflix-Data-Analysis/main/movie_durations.png)
  # Netflix Data Analysis Using Python
 
 ## Project Overview
